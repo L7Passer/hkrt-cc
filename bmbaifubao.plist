@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>method</key>
+	<string>enterprise</string>
+	<key>teamID</key>
+	<string>FUK58N5MB7</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://218.75.104.235:47073/appdl/bmbaifubao.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://218.75.104.235:47073/appdl/bmbaifubao.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://218.75.104.235:47073/appdl/bmbaifubao.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.mympos.bmbaifubao</string>
+				<key>display-image</key>
+				<string>http://218.75.104.235:47073/appdl/bmbaifubao.png</string>
+				<key>bundle-version</key>
+				<string>2.4.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>e支付</string>
+				<key>weixin-appid</key>
+				<string>wx3cda6ebdb24e8de2</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
